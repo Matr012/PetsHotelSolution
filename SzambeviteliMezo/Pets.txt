@@ -1,0 +1,5 @@
+﻿Név;Faj;Fajta;Nem;Szín;SzületésiDátum;Súly;KedvencÉtel;KedvencJáték
+Bodri;Kutya;Németjuhász;Kan;Fekete;2015.01.01;30;Hús;Labda
+Cirmi;Macska;Perzsa;Nőstény;Fekete;2016.01.01;5;Hal;Gomb
+Csőrike;Macska;Sziámi;Nőstény;Fehér;2017.01.01;4;Hal;Gomb
+Döme;Kutya;Németjuhász;Kan;Fekete;2018.01.01;35;Hús;Labda
